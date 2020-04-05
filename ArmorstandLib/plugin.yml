@@ -1,0 +1,6 @@
+name: ArmorstandLib
+version: 0.1
+main: lt.TerZer.armorstandlib.Main
+depend: [InventoryLib]
+api-version: 1.15
+commands:
